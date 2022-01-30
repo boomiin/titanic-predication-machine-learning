@@ -1,4 +1,4 @@
-# README DOCKER
+# README
 
 Réalisé par TOUMONTE Aicha et AKA Chris Hyann
 
